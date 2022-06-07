@@ -1,7 +1,7 @@
 ### Hey folks, Doug here! 👨‍💻
 
-- 🔭 I’m currently working on my portfolio and HTML projects
-- 🌱 I’m currently learning CyberSecurity Fundamentals
+- 🔭 I’m currently working on my portfolio and looking for new projects
+- 🌱 I’m currently learning CyberSecurity
 - 👯 I’m looking to collaborate on future projects involving more programming languages
 - 🤔 I’m looking for help with a clear career path
 - 💬 Ask me about assistance with future projects!
